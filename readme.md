@@ -24,7 +24,7 @@ Git log --graph
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué? 
 
-Si, porque al crear la rama title el HEAD está en el último commit, y si master absorbe a title, se puede poner en su posición 
+Si, porque al crear la rama title el HEAD está en el último commit, y si master absorbe a title, se puede poner en su posición. El archivo git_nuestro.md en title tiene un título que master no tiene. 
 
 - ¿Qué comando o comandos utilizaste en el paso 27? 
 
