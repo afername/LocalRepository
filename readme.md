@@ -8,7 +8,7 @@
 
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué? 
 
-    No. Porque con el reset hemos vuelto al estado anterior. Styled está igual que el estado anterior, y master sigue en ese mismo estado. 
+    No. Master está ya contenida en styled. Aunque la absorba, se queda igual 
 
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué? 
 
